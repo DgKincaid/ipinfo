@@ -1,0 +1,14 @@
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\obj\Debug\netcoreapp2.2\IpInfo.csproj.CoreCompileInputs.cache
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\obj\Debug\netcoreapp2.2\IpInfo.AssemblyInfoInputs.cache
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\obj\Debug\netcoreapp2.2\IpInfo.AssemblyInfo.cs
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\bin\Debug\netcoreapp2.2\IpInfo.deps.json
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\bin\Debug\netcoreapp2.2\IpInfo.runtimeconfig.json
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\bin\Debug\netcoreapp2.2\IpInfo.runtimeconfig.dev.json
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\bin\Debug\netcoreapp2.2\IpInfo.dll
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\obj\Debug\netcoreapp2.2\IpInfo.csprojAssemblyReference.cache
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\obj\Debug\netcoreapp2.2\IpInfo.RazorAssemblyInfo.cache
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\obj\Debug\netcoreapp2.2\IpInfo.RazorAssemblyInfo.cs
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\obj\Debug\netcoreapp2.2\IpInfo.RazorTargetAssemblyInfo.cache
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\bin\Debug\netcoreapp2.2\IpInfo.pdb
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\obj\Debug\netcoreapp2.2\IpInfo.dll
+C:\Users\DKincaid\source\repos\IpInfo\IpInfo\obj\Debug\netcoreapp2.2\IpInfo.pdb
